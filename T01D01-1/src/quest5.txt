@@ -1,0 +1,4 @@
+cd door_management_files
+cd door_configuration
+vim door_1.conf
+# Изменил CLOSED на OPEN
